@@ -1,0 +1,45 @@
+#name{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 47px;
+    color: #212F3C;
+}
+#title{
+    border: 4px;
+    border-style:double;
+    border-color: black;
+}
+#contact{
+    border: 4px;
+    border-style:double;
+    border-color: black;
+    border-bottom-left-radius: 20%;
+}
+#image{
+    border-radius: 48%;
+    border: 5px solid black;
+}
+#heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#heading1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration:underline;
+    text-decoration-color: #3498DB ;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 2px;
+    color: #3498DB ;
+}
+#link{
+    text-decoration:none;
+    color: #424949 ;
+}
+#link:hover{
+    color: #00695C;
+    text-decoration:underline;
+}
+#content{
+    font-family:serif;
+}
+#mail{
+    font-size: 19px;
+}
